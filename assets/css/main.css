@@ -1,0 +1,53 @@
+body{
+    background: #EEEBDD url(../img/fundo.png);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#cabecalho{
+    image-orientation: center;
+    background-color: #FAF7E4;
+    border-radius: 20%;
+    border: 1px solid #AAA492;
+    box-shadow: 2px 2px gray;
+}
+#menu{
+    list-style: none;    
+    font-weight: bold;
+    font-size: 19px;
+    list-style: none;
+    text-align: center;
+}
+.opcoes{
+    display: inline;
+    padding: 4px 10px;
+    background: #E5DCC3;
+    border: 1px solid black;
+    box-shadow: 3px 3px gray;
+    border-radius: 2%;
+}
+.txt{
+    background: #FEF5ED;
+    border: 5px solid #9A9483;
+    text-align: center;
+    box-shadow: 4px 4px gray;
+    border-radius: 2%;
+}
+#direitos{
+    background: #E5DCC3;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    border: 1px solid black;
+    box-shadow: 4px 4px gray;
+    border-radius: 2%;
+}
+.titulo{
+    color: #C7BEA2;
+}
+
+.imgs{
+    border: 6px solid #E5DCC3;
+    box-shadow: 2px 2px gray;
+}
+#email{
+    text-align: center;
+}
