@@ -5,9 +5,6 @@ body{
 #cabecalho{
     image-orientation: center;
     background-color: #FAF7E4;
-    border-radius: 20%;
-    border: 1px solid #AAA492;
-    box-shadow: 2px 2px gray;
 }
 #menu{
     list-style: none;    
@@ -22,14 +19,11 @@ body{
     background: #E5DCC3;
     border: 1px solid black;
     box-shadow: 3px 3px gray;
-    border-radius: 2%;
 }
 .txt{
     background: #FEF5ED;
     border: 5px solid #9A9483;
     text-align: center;
-    box-shadow: 4px 4px gray;
-    border-radius: 2%;
 }
 #direitos{
     background: #E5DCC3;
@@ -38,7 +32,6 @@ body{
     font-weight: bold;
     border: 1px solid black;
     box-shadow: 4px 4px gray;
-    border-radius: 2%;
 }
 .titulo{
     color: #C7BEA2;
@@ -50,4 +43,7 @@ body{
 }
 #email{
     text-align: center;
+}
+.titulo{
+    text-shadow: 2px 1px gray;
 }
