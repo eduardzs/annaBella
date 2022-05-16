@@ -4,4 +4,4 @@ Projeto feito usando apenas HTML 5 e CSS 3.
 
 Trata-se do meu segundo código do curso, neste código implementamos o CSS ao HTML.
 
-<img src="./assets/img/anna-bella" alt="Imagem do Projeto">
+<img src="./assets/img/anna-bella.png" alt="Imagem do Projeto">
